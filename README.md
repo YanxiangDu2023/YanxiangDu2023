@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yanxiang Du</h1>
-<h4 align="center">Hi My name is Yanxiang Du. I am currently pursuing a Master's degree in Computer Science at Stockholm University. My interest lies in becoming a full-stack developer, and I am also passionate about machine learning and data analysis. My tech stack includes Java, Spring, Maven, MySQL, JavaScript, Node.js, and HTML/CSS/Vue/React. Additionally, I have completed machine learning projects using Python libraries such as Scikit-learn, NumPy, and Pandas. Besides programming, I am very interested in skiing and ice skating.</h4>
 
-  <div>
-    <img src="/Users/amandadu/Desktop/images.jpeg" alt="Your Image" style="width: 300px; height: auto;" />
+ <div>
+    <img align="right" alt="coding" width="400" src="/images.jpeg" alt="Your Image"/>
+    
   </div>
+<li align="left">Hi My name is Yanxiang Du. I am currently pursuing a Master's degree in Computer Science at Stockholm University. My interest lies in becoming a full-stack developer, and I am also passionate about machine learning and data analysis💻. My tech stack includes Java, Spring, Maven, MySQL, JavaScript, Node.js, and HTML/CSS/Vue/React. Additionally, I have completed machine learning projects using Python libraries such as Scikit-learn, NumPy, and Pandas. Besides programming, I am very interested in skiing🎿 and ice skating⛸️.</li>
+
+ 
+<hr style="border: 1px solid #e0e0e0; width: 80%;">
 
 <div style="display: flex; justify-content: space-between;">
   <div>
     <ul>
+      <br>
       <li>🔭 I’m currently Studying on <strong>Stockholm University, Master of Computer Science, Major in Information Security</strong></li>
       <li>🌱 I’m currently learning <strong>Backend development and machine learning</strong></li>
       <li>👯 I’m looking to collaborate on <strong>Full-stack development, Machine Learning, Cybersecurity</strong></li>
