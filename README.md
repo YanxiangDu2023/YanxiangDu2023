@@ -19,7 +19,7 @@
       <li>🤝 I’m looking for help with <strong>Internships in full-stack development and Data analysis</strong></li>
       <li>💬 Ask me about <strong>Life in Sweden😄</strong></li>
       <li>📫 How to reach me <strong>yanxiangduamanda@outlook.com</strong></li>
-      <li>⚡ Fun fact <strong>Fun fact Fluent in both English and Chinese, I thrive on exploring new technologies, and I'm passionate about problem-solving while staying updated on the latest trends in the software development industry.</strong></li>
+      <li>⚡ Fun fact <strong>Fluent in both English and Chinese, I thrive on exploring new technologies, and I'm passionate about problem-solving while staying updated on the latest trends in the software development industry.</strong></li>
     </ul>
   </div>
 
