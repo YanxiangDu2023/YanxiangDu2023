@@ -4,7 +4,7 @@
     <img align="right" alt="coding" width="400" src="/images.jpeg" alt="Your Image"/>
     
   </div>
-<li align="left">Hi My name is Yanxiang Du. I am currently pursuing a Master's degree in Computer Science at Stockholm University. My interest lies in becoming a full-stack developer, and I am also passionate about machine learning and data analysis💻. My tech stack includes Java, Spring, Maven, MySQL, JavaScript, Node.js, and HTML/CSS/Vue/React. Additionally, I have completed machine learning projects using Python libraries such as Scikit-learn, NumPy, and Pandas. Besides programming, I am very interested in skiing🎿 and ice skating⛸️.</li>
+<li align="left">Hi! my name is Yanxiang Du. I am currently pursuing a Master's degree in Computer Science at Stockholm University. My interest lies in becoming a full-stack developer, and I am also passionate about machine learning and data analysis💻. My tech stack includes Java, Spring, Maven, MySQL, JavaScript, Node.js, and HTML/CSS/Vue/React. Additionally, I have completed machine learning projects using Python libraries such as Scikit-learn, NumPy, and Pandas. Besides programming, I am very interested in skiing🎿 and ice skating⛸️.</li>
 
  
 <hr style="border: 1px solid #e0e0e0; width: 80%;">
