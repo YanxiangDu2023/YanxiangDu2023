@@ -15,7 +15,7 @@
       <br>
       <li>🔭 I’m currently Studying on <strong>Stockholm University, Master of Computer Science, Major in Information Security</strong></li>
       <li>🌱 I’m currently learning <strong>Backend development and machine learning</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>Full-stack development, Machine Learning, Cybersecurity</strong></li>
+      <li>👯 I’m looking to collaborate on <strong>Full-stack development and Machine Learning</strong></li>
       <li>🤝 I’m looking for help with <strong>Internships in full-stack development and Data analysis</strong></li>
       <li>💬 Ask me about <strong>Life in Sweden😄</strong></li>
       <li>📫 How to reach me <strong>yanxiangduamanda@outlook.com</strong></li>
